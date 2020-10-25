@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="notification_item_added">Пользователь %1 добавил предмет %2 в количестве %3 в локацию - %4</string>
+    <string name="notification_item_edited">Пользователь %1 изменил предмет %2 в локации - %3</string>
+    <string name="notification_item_deleted">Пользователь %1 удалил предмет %2 в локации - %3</string>
+    <string name="notification_location_added">Пользователь %1 добавил локацию - %2</string>
+    <string name="notification_location_removed">Пользователь %1 удалил локацию - %2</string>
+    <string name="notification_location_status">Статус лоации %1 изменился - %2</string>
+    <string name="notification_title_item_added">Предмет добавлен</string>
+    <string name="notification_title_item_edited">Предмет изменен</string>
+    <string name="notification_title_item_deleted">Предмет удален</string>
+    <string name="notification_title_location_added">Локация добавлена</string>
+    <string name="notification_title_location_deleted">Локация удалена</string>
+    <string name="notification_title_location_changed">Статус локации изменен</string>
+</resources>

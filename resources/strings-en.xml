@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="notification_item_added">User %1 added item %2 in amount of %3  to location - %4</string>
+    <string name="notification_item_edited">User %1 edited item %2 in location - %3</string>
+    <string name="notification_item_deleted">User %1 deleted item %2 in location - %3</string>
+    <string name="notification_location_added">User %1 added location - %2</string>
+    <string name="notification_location_deleted">User %1 deleted location - %2</string>
+    <string name="notification_location_status">Location %1 status is now %2</string>
+    <string name="notification_title_item_added">Item added</string>
+    <string name="notification_title_item_edited">Item edited</string>
+    <string name="notification_title_item_deleted">Item deleted</string>
+    <string name="notification_title_location_added">Location added</string>
+    <string name="notification_title_location_deleted">Location deleted</string>
+    <string name="notification_title_location_changed">Location status changed</string>
+</resources>
